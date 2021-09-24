@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshchoudhari147&" alt="rajeshchoudhari147" /></p>
 
-[Resume]: https://1drv.ms/b/s!AvoPCOo63_47lQfMMBwGvzEy8zot?e=ZsDr90
+[Resume]: https://1drv.ms/b/s!AvoPCOo63_47lztIowkjlMEsXB_W?e=kgI1cw
