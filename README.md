@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajesh Choudhari!
+# 👋 Hi, I'm Rajesh!
 
 🎨 Software Developer | 📸 Content Creator | 💻 React & React Native Enthusiast | 🌏 Based in Melbourne, Australia
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m passionate about crafting seamless user expe
 - My personal portfolio showcasing my projects and skills.
 
 ## 📈 GitHub Stats
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshchoudhari147&show_icons=true&hide=stars&count_private=true&theme=radical)
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshchoudhari147&show_icons=true&hide=stars&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshchoudhari147&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
